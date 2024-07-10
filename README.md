@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I am MOHAMED El Derkaoui Merzouk Bendoukha, I was born on January 27, 1998 in Mohamadia (Muscara (Algeria)) but I live in Ejea de los Caballeros (Zaragoza (Spain EU)). I am a web and java programmer, I have cerebral palsy, I have a baccalaureate I am scientific-technological and I am junior a higher technical degree in web application development</div>  
+### <div align="center">I am MOHAMED El Derkaoui Merzouk Bendoukha, I was born on January 27, 1998 in Mohamadia (Muscara (Algeria)) but I live in Ejea de los Caballeros (Zaragoza (Spain EU)). I am a web and java programmer, I have cerebral palsy, I have a baccalaureate I am scientific-technological and I am junior of a higher technical degree in web application development</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/MohamedElderkaoui)  
