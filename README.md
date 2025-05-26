@@ -39,3 +39,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedelderkaoui&show_icons=true&locale=en&layout=compact" alt="mohamedelderkaoui" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedelderkaoui&show_icons=true&locale=en" alt="mohamedelderkaoui" /></p>
+
+
+## MY ROEPOS
+
+You currently have 106 public repositories on GitHub under your username MohamedElderkaoui .
+
