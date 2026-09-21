@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Mohamed Merzouk</h1>
-<h3 align="center">Web Application Developer · Digital Forensics · Blue Team Expert</h3>
+<h3 align="center">Web Application Developer · Digital Forensics · Blue Team Expert · AI Developer</h3>
 <p align="center">📍 Ejea de los Caballeros, Zaragoza, Spain 🇪🇸</p>
 
 <p align="center">
