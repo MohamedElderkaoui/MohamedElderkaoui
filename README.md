@@ -24,7 +24,7 @@ I am **Mohamed EL DERKAOUI MERZOUK BENDOUKHA**, born on January 27, 1998 in Moha
 
 I hold a Higher Technical Degree in **Web Application Development** and have specialized certifications in **Digital Forensics** and **Blue Team / Cybersecurity**. I have cerebral palsy, but that has never stopped my drive to learn and grow as a developer.
 
-- 🔭 Currently working on: [AccessAI](https://github.com/MohamedElderkaoui/Proyectos-iaa) — Django sales analytics app
+- 🔭 Currently working on: [AccessAI](https://github.com/MohamedElderkaoui/Proyectos-iaa) —  isión artificial para detectar elementos relacionados con la accesibilidad urbana en imágenes de entornos peatonales.
 - 📫 Reach me at: **mderkaoui10@gmail.com** · 📞 635 867 272 / 676 768 066
 - ⚡ Fun fact: I love Real Madrid
 
