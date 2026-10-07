@@ -32,13 +32,15 @@ I hold a Higher Technical Degree in **Web Application Development** and have spe
 
 ## 🎓 Education
 
-| Year | Qualification | Institution |
-|------|--------------|-------------|
-| 2025 | Experto en Blue Team (250 h) | Inserta Incibe Arelance |
-| 2025 | Junior Cybersecurity Analyst Career Path *(Badge)* | — |
-| 2025 | Digital Forensic and Incident Response (300 h) | Inserta Incibe Arelance |
-| 2019–2024 | Técnico Superior en Desarrollo de Aplicaciones Web | CPIFP Los Enlaces / IES Río Arba |
-| 2015–2019 | Bachillerato Científico-Tecnológico | IES Cinco Villas |
+| Año           | Cualificación                                                                                                  | Institución                                      |
+| ------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| **2025–2026** | **III Diploma de Extensión Universitaria en Inteligencia Artificial Avanzada — Samsung Innovation Campus**     | Universidad de Málaga / Fundación ONCE / Samsung |
+| **2025–2026** | **III Microcredencial Universitaria en Introducción a la Programación en Python para Inteligencia Artificial** | Universidad de Málaga / Fundación ONCE / Samsung |
+| **2025**      | **Experto en Blue Team (250 h)**                                                                               | Inserta Incibe Arelance                          |
+| **2025**      | **Digital Forensic and Incident Response (300 h)**                                                             | Inserta Incibe Arelance                          |
+| **2025**      | **Junior Cybersecurity Analyst Career Path (Badge)**                                                           | —                                                |
+| **2019–2024** | **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)**                                                   | CPIFP Los Enlaces / IES Río Arba                 |
+| **2015–2019** | **Bachillerato Científico-Tecnológico**                                                                        | IES Cinco Villas                                 |
 
 ---
 
